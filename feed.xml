@@ -3,10 +3,30 @@
     <title>Gagarinspace.com</title>
     <link href="https://faint808.github.io/feed.xml" rel="self" />
     <link href="https://faint808.github.io" />
-    <updated>1970-01-01T03:00:00+03:00</updated>
+    <updated>2020-12-21T17:16:23+03:00</updated>
     <author>
         <name>Alexander</name>
     </author>
     <id>https://faint808.github.io</id>
 
+    <entry>
+        <title>Тест</title>
+        <author>
+            <name>Alexander</name>
+        </author>
+        <link href="https://faint808.github.io/test.html"/>
+        <id>https://faint808.github.io/test.html</id>
+
+        <updated>2020-12-21T17:16:23+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Мы пишем тест)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Мы пишем тест)</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
