@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Gagarinspace.com",
+    "description": "",
+    "home_page_url": "https://faint808.github.io",
+    "feed_url": "https://faint808.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Alexander"
+    },
+    "items": [
+    ]
+}
